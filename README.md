@@ -1,5 +1,5 @@
 ## Shengyin Qiang's homepage https://qiangsy1.github.io
-
+##  Theme designed by [HyG](https://github.com/Gaohaoyang)
 
 [![GitHub stars](https://img.shields.io/github/stars/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/network)
