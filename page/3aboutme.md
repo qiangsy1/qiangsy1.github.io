@@ -28,13 +28,13 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 
 
 ## **Education**
-### <a href="https://www.iem.ac.cn/">Institute of Engineering Mechanics, CEA</a>   2020.09-now
+* <a href="https://www.iem.ac.cn/">Institute of Engineering Mechanics, CEA</a>   2020.09-now
  > Ph.D. in _Earthquake Engineering, Civil Engineering_<br>
  > _Harbin_, CHINA
-### <a href="https://www.iem.ac.cn/">Institute of Engineering Mechanics, CEA</a>  2018.06-2020.09
+* <a href="https://www.iem.ac.cn/">Institute of Engineering Mechanics, CEA</a>  2018.06-2020.09
  > M.E. in _Earthquake Engineering, Civil Engineering_<br>
  > _Harbin_, CHINA 
-### <a href="http://www.neepu.edu.cn/">Northeast Electric Power University</a>
+* <a href="http://www.neepu.edu.cn/">Northeast Electric Power University</a>
  2014.09-2018.09
 
  > B.E. in  _Civil Engineering_<br>
