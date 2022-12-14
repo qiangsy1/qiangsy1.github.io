@@ -26,6 +26,13 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 | ![](/picture/outlook.png)|  ![](/picture/gmail.png) | ![](/picture/wechat.jpg) |
 
 
+<figure>
+<img src="https://img-blog.csdnimg.cn/2019012511060017.png" width=200/>
+<img src="https://img-blog.csdnimg.cn/2019012511060017.png" width=200/>
+<img src="https://img-blog.csdnimg.cn/2019012511060017.png" width=200/>
+</figure>
+
+
 
 ## **Education**
 
