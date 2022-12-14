@@ -21,8 +21,8 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 
 ## **Contact me**
 
-|             Outlook mail     |        Wechat              |                                   Google mail                                    |
-|:--------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------------------:|
+|                                  Outlook mail                                  |                                  Wechat                                  |                                  Google mail                                  |
+|:---------------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------------:|
 | [![PayPal](https://github.com/qiangsy1/qiangsy1.github.io/blob/master/picture/outlook.png)<br>Donate via PayPal ](https://www.paypal.me/gaohaoyang) | ![wechat](https://github.com/qiangsy1/qiangsy1.github.io/blob/master/picture/wechat.jpg) | ![alipay](https://github.com/qiangsy1/qiangsy1.github.io/blob/master/picture/gmail.png) |
 
 
