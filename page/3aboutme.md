@@ -14,7 +14,7 @@ type: page
 ## **About me**
 
 <table class="imgtable"><tr><td>
-<br><img src="/picture/bio.jpg" alt="alt text" width="500px"/>&nbsp;</br></td>
+<br><img src="/picture/bio.jpg" alt="alt text" width="500px"/></br>&nbsp;</td>
 <td align="left"> 
 
 I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA). My research interests include research interests are earthquake simulation and characteristic of ground motions, etc. At present, I am working in the Science and Technology Innovation Laboratory of Seismic Effects and Seismic Zoning Led by Professor Ruizhi Wen.</td></tr></table>
