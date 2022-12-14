@@ -14,7 +14,7 @@ author: qiangsy
 
 | Database name | Database code | URL  |
 | :--------- | :----:  | :---- |
-| Centre for Engineering Strong Motion Data |CESMD| http://www.strongmotioncenter.org/   |
+| Centre for Engineering Strong Motion Data |CESMD| [http://www.strongmotioncenter.org/](http://www.strongmotioncenter.org/)   |
 | COSMOS Virtual Data Center |COSMOS| http://www.cosmos-eq.org/VDC/index.html |
 | Pacific Earthquake Engineering Research Center database|PEER|  http://peer.berkeley.edu/peer_ground_motion_database |
 | European Strong-Motion Database| ESMD| http://www.isesd.hi.is/ESD_Local/frameset.htm |
