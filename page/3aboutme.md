@@ -14,7 +14,7 @@ type: page
 ## **About me**
 
 <table class="imgtable"><tr><td>
-<a href="https://qiangsy1.github.io/"><img src="/picture/bio.jpg" alt="alt text" width="200px"  /></a>&nbsp;</td>
+<a href="https://qiangsy1.github.io/"><img src="/picture/bio.jpg" alt="alt text" width="400px"  /></a>&nbsp;</td>
 <td align="left"> 
 I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA). My research interests include research interests are earthquake simulation and characteristic of ground motions, etc. At present, I am working in the Science and Technology Innovation Laboratory of Seismic Effects and Seismic Zoning Led by Professor Ruizhi Wen. <br />   
 目前博士就读于中国地震局工程力学研究所，导师温瑞智研究员。研究方向为地震动模拟、强震动特征以及场地效应等。<br />
@@ -58,7 +58,8 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
  >* Government Scholarship of Jilin Province, 2016.10<br>
 
 ## 友情链接
-[中国地震局](https://www.cea.gov.cn/) \| [USGS Search Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/)
+[中国地震局](https://www.cea.gov.cn/) \| [USGS Search Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/) | [地球物理震源学术信息分享-张勇
+](https://pku-geophysics-source.group/index.html)
  
 <!-- ### Footer
 Last updated: May 2013 -->
