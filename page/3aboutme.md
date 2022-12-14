@@ -60,7 +60,7 @@ At present, I am working in the Science and Technology Innovation Laboratory of 
  >* Government Scholarship of Jilin Province, 2016.10<br>
 
 ## 友情链接
-[中国地震局](https://www.cea.gov.cn/) \| 
+[中国地震局](https://www.cea.gov.cn/) \| [USGS Search Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/)
  
 <!-- ### Footer
 Last updated: May 2013 -->
