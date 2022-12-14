@@ -5,30 +5,52 @@ permalink: /aboutme/
 icon: heart
 type: page
 ---
-
 * content
 {:toc}
+---
 
-## 关于我
+# **Shengyin Qiang (强生银)**
 
-<!-- <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe> -->
+## **About me**
+I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA). My research interests include research interests are earthquake simulation and characteristic of ground motions, etc.At present, I am working in the Science and Technology Innovation Laboratory of Seismic Effects and Seismic Zoning Led by Professor Ruizhi Wen.<br>
+目前博士就读于中国地震局工程力学研究所，导师温瑞智研究员。研究方向为地震动模拟、强震动特征以及场地效应等。
+
+## **Research interests**
+* Earthquake Engineering
+* Earthquake Simulation
+* Characteristic of Strong Ground Motion
+
+## **Contact me**
+
+![Outlook Email](C:\Users\qs\Desktop\picture\outlook.png)
 
 
+## **Education**
 
-## 联系我
+### **Institute of Engineering Mechanics, China Earthquake Administration** `2020.09-now`
+```
+ Ph.D. in Earthquake Engineering, Civil Engineering
+ Harbin, CHINA
+```
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+### **Institute of Engineering Mechanics, China Earthquake Administration** ` 2018.06-2020.09`
+```
+ M.E. in Earthquake Engineering, Civil Engineering
+ Harbin, CHINA
+```
+### **Northeast Electric Power University** `2014.09-2018.09`
+```
+ B.E. in  Civil Engineering
+ Harbin, CHINA
+```
 
-## 友情链接
+## **Honors & Awards**
+* First-level Scholarship, Institute of Engineering Mechanics, CEA, 2020.10 & 2021.10 & 2022.10<br>
+* Second-level Scholarship, Institute of Engineering Mechanics, CEA, 2019.10<br>
+* National Encouragement Scholarship, 2017.10<br>
+* First-level Scholarship, Northeast Electric Power University, 2017.04 & 2017.11<br>
+* Government Scholarship of Jilin Province, 2016.10<br>
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+<!-- ### Footer
 
-## Comments
-
-{% include comments.html %}
+Last updated: May 2013 -->
