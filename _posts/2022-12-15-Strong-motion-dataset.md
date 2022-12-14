@@ -10,8 +10,6 @@ author: qiangsy
 * content
 {:toc}
 
-
-
 # Strong Motion Database Center URL organized by Shengyin Qiang
 
 | Database name | Database code | URL  |
