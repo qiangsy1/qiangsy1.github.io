@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "strong-motion dataset"
-categories: JavaScript
-tags:  Animation
+categories: dataset
+tags:  data
 author: qiangsy
 ---
 
