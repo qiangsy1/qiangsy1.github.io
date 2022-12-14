@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 permalink: /Publication/
 icon: bookmark
 type: page
