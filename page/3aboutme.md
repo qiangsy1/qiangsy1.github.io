@@ -21,12 +21,18 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 * Characteristic of Strong Ground Motion
 
 ## **Contact me**
-|            qiangsy_96@outlook.com                          |                   qiangsy1996@gmail.com                       |              Wechat                       |
-|:---------------------------------------------:|:-----------------------------------:|:-----------------------------------------------:|
-|
-<figure><img src="/picture/outlook.png" width=200/></figure>|
-<figure><img src="/picture/gmail.png" width=200/></figure>|
-<figure><img src="/picture/wechat.jpg" width=200/></figure>|
+|            qiangsy_96@outlook.com                          |                   qiangsy1996@gmail.com                       |              Wechat                     
+
+<a href="qiangsy_96@outlook.com" target="-blank" title="qiangsy_96@outlook.com">
+    <img src="/picture/outlook.png" width=50/>
+</a>
+
+
+<figure>
+<img src="/picture/outlook.png" width=50/>
+<img src="/picture/gmail.png" width=50/>
+<img src="/picture/wechat.jpg" width=50/>
+</figure>
 
 
 
