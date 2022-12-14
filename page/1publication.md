@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /Publication/
-icon: bookmark
+icon: th-list
 type: page
 ---
 
