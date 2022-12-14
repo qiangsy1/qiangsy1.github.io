@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "My frst Blog"
-date:   2022-12-14 02:14:54
 categories: Hello World
 tags: logo
 author: qiangsy
