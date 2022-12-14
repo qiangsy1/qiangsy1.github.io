@@ -18,27 +18,26 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 * Earthquake Engineering
 * Earthquake Simulation
 * Characteristic of Strong Ground Motion
+
 ## **Contact me**
 
-[![](C:\Users\qs\Desktop\picture\outlook.png "Outlook Email")](qiangsy_96@outlook.com)
+[![](https://github.com/qiangsy1/qiangsy1.github.io/blob/master/picture/outlook.png "Outlook Email")](qiangsy_96@outlook.com)
 
 
 ## **Education**
-### Institute of Engineering Mechanics, China Earthquake Administration `2020.09-now`
-```
- Ph.D. in Earthquake Engineering, Civil Engineering
- Harbin, CHINA
-```
-### Institute of Engineering Mechanics, China Earthquake Administration `2018.06-2020.09`
-```
- M.E. in Earthquake Engineering, Civil Engineering
- Harbin, CHINA
-```
-### Northeast Electric Power University `2014.09-2018.09`
-```
- B.E. in  Civil Engineering
- Harbin, CHINA
-```
+### Institute of Engineering Mechanics, China Earthquake Administration 2020.09-now
+ > Ph.D. in Earthquake Engineering, Civil Engineering<br>
+ > Harbin, CHINA
+
+### Institute of Engineering Mechanics, China Earthquake Administration 2018.06-2020.09
+ > M.E. in Earthquake Engineering, Civil Engineering<br>
+ > Harbin, CHINA 
+
+### Northeast Electric Power University 2014.09-2018.09
+
+ > B.E. in  Civil Engineering <br>
+ > Harbin, CHINA
+
 ## **Honors & Awards**
 * First-level Scholarship, Institute of Engineering Mechanics, CEA, 2020.10 & 2021.10 & 2022.10<br>
 * Second-level Scholarship, Institute of Engineering Mechanics, CEA, 2019.10<br>
