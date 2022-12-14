@@ -57,7 +57,7 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
  >* First-level Scholarship, Northeast Electric Power University, 2017.04 & 2017.11<br>
  >* Government Scholarship of Jilin Province, 2016.10<br>
 
-## Links
+## **Links**
 [中国地震局](https://www.cea.gov.cn/) \| [USGS Search Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/) | [地球物理震源学术信息分享-张勇
 ](https://pku-geophysics-source.group/index.html) | [中国区域地震学参考模型](http://chinageorefmodel.org/) | [华北地区地壳-上地幔地震波速度结构模型v2.0](http://www.craton.cn/data/)
  
