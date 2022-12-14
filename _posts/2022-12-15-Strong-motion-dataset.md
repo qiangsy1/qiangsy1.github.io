@@ -11,6 +11,20 @@ author: qiangsy
 {:toc}
 
 
+---
+layout: post
+title:  "Strong-Motion Dataset"
+date:   2022-12-15 01:49:05
+categories: dataset
+tags: data
+author: qiangsy
+---
+
+* content
+{:toc}
+
+
+
 # Strong Motion Database Center URL organized by Shengyin Qiang
 
 | Database name | Database code | URL  |
