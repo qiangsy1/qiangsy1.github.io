@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strong-motion dataset"
-date:  2022-12-15 12:07:54
+date:  2022-12-15 02:07:54
 categories: dataset
 tags: data
 author: qiangsy
@@ -10,7 +10,7 @@ author: qiangsy
 * content
 {:toc}
 
-# Strong Motion Database Center URL organized by Shengyin Qiang
+# **Strong Motion Database Center URL organized by Shengyin Qiang**
 
 | Database name | Database code | URL  |
 | :--------- | :----:  | :---- |
