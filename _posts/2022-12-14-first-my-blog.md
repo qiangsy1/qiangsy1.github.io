@@ -10,5 +10,5 @@ tags: logo
 {:toc}
 
 # Hello World！
-html <div align="center"> <img src="/picture/logo.png" width="50%">
+<div align="center"> <img src="/picture/logo.png" width="50%">
 
