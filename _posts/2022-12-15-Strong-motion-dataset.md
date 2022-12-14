@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strong-motion dataset"
-date:  2022-12-15 02:07:54
+date:  2022-12-15 2:07:54
 categories: dataset
 tags: data
 author: qiangsy
