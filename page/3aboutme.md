@@ -8,7 +8,7 @@ type: page
 * content
 {:toc}
 ---
-<font size=5</font>
+<font size=5
 
 # **Shengyin Qiang (强生银)**
 
@@ -49,6 +49,6 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 * National Encouragement Scholarship, 2017.10<br>
 * First-level Scholarship, Northeast Electric Power University, 2017.04 & 2017.11<br>
 * Government Scholarship of Jilin Province, 2016.10<br>
-
+</font>
 <!-- ### Footer
 Last updated: May 2013 -->
