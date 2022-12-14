@@ -59,5 +59,8 @@ At present, I am working in the Science and Technology Innovation Laboratory of 
  >* First-level Scholarship, Northeast Electric Power University, 2017.04 & 2017.11<br>
  >* Government Scholarship of Jilin Province, 2016.10<br>
 
+## 友情链接
+[中国地震局](https://www.cea.gov.cn/) \| 
+ 
 <!-- ### Footer
 Last updated: May 2013 -->
