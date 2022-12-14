@@ -24,10 +24,10 @@ Li C, Wang H*, Wen R, **Qiang S**, Ren Y. 2021. Three-component ground motion si
 **Qiang S**, Liu Q*, Wen R, Wang H. 2021. Basin amplification effect of seismic ground motion based on seismic wave numerical simulation in two-dimensional model. Earthquake Engineering and Engineering Dynamics, 41(4):131-144. (in Chinese).
 
 ## Conference Publications
-- **强生银**, 王宏伟,温瑞智, 任叶飞, 崔建文. (2022). 2021年云南漾濞地震序列中强（MS≥5.0）地震强震动特征.第十一届全国地震工程学术会议论文集.
+- **强生银**, 王宏伟**, 温瑞智, 任叶飞, 崔建文. (2022). 2021年云南漾濞地震序列中强（MS≥5.0）地震强震动特征.第十一届全国地震工程学术会议论文集.
 
 ## Under Review
-- **Qiang S**, Wang H,Wen R*, Ren Y, and Zhou Y. Investigating the effects of structural parameters on surface seismic aggravation in two-dimensional sedimentary valleys. 
+- **Qiang S**, Wang H, Wen R*, Ren Y, and Zhou Y. Investigating the effects of structural parameters on surface seismic aggravation in two-dimensional sedimentary valleys. 
 
 ## Presentation
 - 
