@@ -40,11 +40,11 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
  > _Harbin_, CHINA
 
 ## **Honors & Awards**
-* First-level Scholarship, Institute of Engineering Mechanics, CEA, 2020.10 & 2021.10 & 2022.10<br>
-* Second-level Scholarship, Institute of Engineering Mechanics, CEA, 2019.10<br>
-* National Encouragement Scholarship, 2017.10<br>
-* First-level Scholarship, Northeast Electric Power University, 2017.04 & 2017.11<br>
-* Government Scholarship of Jilin Province, 2016.10<br>
+ >* First-level Scholarship, Institute of Engineering Mechanics, CEA, 2020.10 & 2021.10 & 2022.10<br>
+ >* Second-level Scholarship, Institute of Engineering Mechanics, CEA, 2019.10<br>
+ >* National Encouragement Scholarship, 2017.10<br>
+ >* First-level Scholarship, Northeast Electric Power University, 2017.04 & 2017.11<br>
+ >* Government Scholarship of Jilin Province, 2016.10<br>
 
 <!-- ### Footer
 Last updated: May 2013 -->
