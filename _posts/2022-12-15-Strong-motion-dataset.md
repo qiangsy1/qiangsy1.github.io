@@ -1,18 +1,5 @@
 ---
 layout: post
-title:  "strong-motion dataset"
-date:   2022-12-15 00:57:01
-categories: dataset
-tags: data
-author: qiangsy
----
-
-* content
-{:toc}
-
-
----
-layout: post
 title:  "Strong-Motion Dataset"
 date:   2022-12-15 01:49:05
 categories: dataset
