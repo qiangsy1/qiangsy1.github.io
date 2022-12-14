@@ -13,7 +13,7 @@ author: qiangsy
 # Strong Motion Database Center URL organized by Shengyin Qiang
 
 | Database name | Database code | URL  |
-| :--------- | :----:  | :---- |
+| :--------- | :----:  | ----: |
 | Centre for Engineering Strong Motion Data |CESMD| http://www.strongmotioncenter.org/   |
 | COSMOS Virtual Data Center |COSMOS| http://www.cosmos-eq.org/VDC/index.html |
 | Pacific Earthquake Engineering Research Center database|PEER|  http://peer.berkeley.edu/peer_ground_motion_database |
