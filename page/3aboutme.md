@@ -12,7 +12,7 @@ type: page
 # **Shengyin Qiang (强生银)**
 
 ## **About me**
-<table class="imgtable"><tr><td> 
+<table class="imgtable">><td> 
 <img src="/picture/bio.jpg" alt="alt text" width="135px" height="140px" /></a>&nbsp;</td>
 <td align="left"> 
 I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA). <br />
