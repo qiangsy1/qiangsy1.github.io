@@ -26,17 +26,17 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 
 ## **Education**
 ### Institute of Engineering Mechanics, China Earthquake Administration 2020.09-now
- > Ph.D. in Earthquake Engineering, Civil Engineering<br>
- > Harbin, CHINA
+ > Ph.D. in _Earthquake Engineering, Civil Engineering_<br>
+ > _Harbin_, CHINA
 
 ### Institute of Engineering Mechanics, China Earthquake Administration 2018.06-2020.09
- > M.E. in Earthquake Engineering, Civil Engineering<br>
- > Harbin, CHINA 
+ > M.E. in _Earthquake Engineering, Civil Engineering_<br>
+ > _Harbin_, CHINA 
 
 ### Northeast Electric Power University 2014.09-2018.09
 
- > B.E. in  Civil Engineering <br>
- > Harbin, CHINA
+ > B.E. in  _Civil Engineering_<br>
+ > _Harbin_, CHINA
 
 ## **Honors & Awards**
 * First-level Scholarship, Institute of Engineering Mechanics, CEA, 2020.10 & 2021.10 & 2022.10<br>
