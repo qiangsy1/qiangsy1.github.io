@@ -1,4 +1,4 @@
-## Shengyin Qiang's homepage https://qiangsy1.github.io
+## Shengyin Qiang's website www.qiangsy.cn
 ##  Theme designed by [HyG](https://github.com/Gaohaoyang)
 
 [![GitHub stars](https://img.shields.io/github/stars/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/stargazers)
