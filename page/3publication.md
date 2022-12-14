@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /Publication/
-icon: paper
+icon: bookmark
 type: page
 ---
 
