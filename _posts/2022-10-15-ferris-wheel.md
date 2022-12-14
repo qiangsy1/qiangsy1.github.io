@@ -1,20 +1,13 @@
 ---
 layout: post
-title:  "摩天轮动画的实现揭秘"
+title:  "strong-motion dataset"
 categories: JavaScript
 tags:  Animation
-author: HyG
+author: qiangsy
 ---
 
 * content
 {:toc}
-
-摩天轮动画的实现揭秘
-
-![](https://gw.alicdn.com/imgextra/i2/O1CN01WMJfsa23yty2Z4YOn_!!6000000007325-1-tps-600-329.gif)
-
-恰好近期业务上开发了类似这样的摩天轮动画，我将其中的实现原理分享给大家。摩天轮动画主要分为 2 部分，一个是摩天轮上每个房间位置布局，另一个就是旋转动画了。
-
 
 # **Strong Motion Database Center URL organized by Shengyin Qiang**
 
