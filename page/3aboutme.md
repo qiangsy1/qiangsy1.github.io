@@ -5,9 +5,7 @@ permalink: /aboutme/
 icon: heart
 type: page
 ---
-* content
-{:toc}
----
+
 
 # **Shengyin Qiang (强生银)**
 
