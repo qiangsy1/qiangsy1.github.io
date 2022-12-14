@@ -12,7 +12,7 @@ type: page
 # **Shengyin Qiang (强生银)**
 
 ## **About me**
-<img align="left" src="/picture/bio.jpg" style=' width:300px;height:100 px'/>
+<img align="left" src="/picture/bio.jpg" style=' width:300px;height:50 px'/>
 I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA). My research interests include research interests are earthquake simulation and characteristic of ground motions, etc.At present, I am working in the Science and Technology Innovation Laboratory of Seismic Effects and Seismic Zoning Led by Professor Ruizhi Wen.<br>
 目前博士就读于中国地震局工程力学研究所，导师温瑞智研究员。研究方向为地震动模拟、强震动特征以及场地效应等。
 
