@@ -23,7 +23,7 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 
 |                                  Outlook mail                                  |                              Wechat                        |                                  Google mail                                  |
 |:---------------------------------------------------:|:-----------------------------------:|:---------------------------------------------------:|
-| <a href ="qiangsy_96@outlook.com"><img src="/picture/outlook.png"> width="60%"</a> | ![Wechat](/picture/wechat.jpg)  | [![Outlook mail](/picture/gmail.png)<br>Google mail](qiangsy1996@gmail.com) |
+| <a href ="qiangsy_96@outlook.com"><img src="/picture/outlook.png" width="60%"> | ![Wechat](/picture/wechat.jpg)  | [![Outlook mail](/picture/gmail.png)<br>Google mail](qiangsy1996@gmail.com) |
 
 
 
