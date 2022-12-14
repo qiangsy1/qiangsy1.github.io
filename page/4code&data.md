@@ -2,7 +2,7 @@
 layout: page
 title: code & data
 permalink: /code&data/
-icon: bookmark
+icon: code
 type: page
 ---
 
