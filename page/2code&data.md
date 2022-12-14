@@ -2,7 +2,7 @@
 layout: page
 title: Code & Data
 permalink: /code&data/
-icon: data
+icon: th-list
 type: page
 ---
 
