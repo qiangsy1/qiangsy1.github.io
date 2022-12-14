@@ -10,4 +10,5 @@ tags: jekyll RubyGems
 {:toc}
 
 # Hello World！
-![my logo](/picture/logo.png "my logo" width="50%")
+<img src="/picture/logo.png" width="50%">
+
