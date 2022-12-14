@@ -14,7 +14,7 @@ type: page
 ## **About me**
 
 <table class="imgtable"><tr><td>
-<a href="https://qiangsy1.github.io/"><img src="/picture/bio.jpg" alt="alt text" width="135px" height="140px" /></a>&nbsp;</td>
+<a href="https://qiangsy1.github.io/"><img src="/picture/bio.jpg" alt="alt text" width="150px" height="140px" /></a>&nbsp;</td>
 <td align="left"> 
 I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA). <br />
 My research interests include research interests are earthquake simulation and characteristic of ground motions, etc. <br />
