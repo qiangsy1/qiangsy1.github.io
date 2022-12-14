@@ -12,7 +12,7 @@ type: page
 # **Shengyin Qiang (强生银)**
 
 ## **About me**
-
+<br>
 <table class="imgtable"><tr><td>
 <img src="/picture/bio.jpg" alt="alt text" width="500px"/>&nbsp;</td></br>
 <td align="left"> 
