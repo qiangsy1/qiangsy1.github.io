@@ -27,7 +27,7 @@ Li C, Wang H<sup>†</sup>, Wen R, **Qiang S**, Ren Y. 2021. Three-component gro
 - **强生银**, 王宏伟<sup>†</sup>, 温瑞智, 任叶飞, 崔建文. (2022). 2021年云南漾濞地震序列中强（MS≥5.0）地震强震动特征.第十一届全国地震工程学术会议论文集.
 
 ## Under Review
-- **Qiang S**, Wang H, Wen R^*^, Ren Y, and Zhou Y. Investigating the effects of structural parameters on surface seismic aggravation in two-dimensional sedimentary valleys. 
+- **Qiang S**, Wang H, Wen R<sup>†</sup>, Ren Y, and Zhou Y. Investigating the effects of structural parameters on surface seismic aggravation in two-dimensional sedimentary valleys. 
 
 ## Presentation
 - 
