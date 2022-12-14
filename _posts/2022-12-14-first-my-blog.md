@@ -10,4 +10,4 @@ tags: jekyll RubyGems
 {:toc}
 
 # Hello World！
-![my logo](/picture/logo.png "my logo")
+![my logo](/picture/logo.png "my logo" 300x400)
