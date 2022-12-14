@@ -12,15 +12,8 @@ type: page
 # **Shengyin Qiang (强生银)**
 
 ## **About me**
-<body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-content">
-<div id="toptitle">
-<h1>Shengyin Qiang (强生银) </h1>
-</div>
 <table class="imgtable"><tr><td>
-<a <img src="/picture/bio.jpg/bio.jpg" alt="alt text" width="131px" height="165px" /></a>&nbsp;</td>
+<a <img src="/picture/bio.jpg" alt="alt text" width="131px" height="165px" /></a>&nbsp;</td>
 <td align="left"><p>Ph.D student,<br />
 Institute of Engineering Mechanics, China Earthquake Administration.<br />
 No. 29 Xuefu Road, <br />
