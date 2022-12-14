@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 ## Journal Publications
--  **Qiang S**, Wang H^*^, Wen R, Ren Y, Cui J. 2022. Characteristics of Strong Ground Motions from Four MS ≥ 5.0 Earthquakes in the 2021 Yangbi, Southwest China, Seismic Sequence. Journal of Earthquake Engineering. doi: 10.1080/13632469.2022.2143941. [pub](/pub/10.108013632469.2022.2143941.pdf)
+-  **Qiang S**, Wang H^†^, Wen R, Ren Y, Cui J. 2022. Characteristics of Strong Ground Motions from Four MS ≥ 5.0 Earthquakes in the 2021 Yangbi, Southwest China, Seismic Sequence. Journal of Earthquake Engineering. doi: 10.1080/13632469.2022.2143941. [pub](/pub/10.108013632469.2022.2143941.pdf)
 - 李春果, 王宏伟, 温瑞智^*^, **强生银**, 任叶飞. 2022. 2022年3月16日日本近海7.4级地震地震动场三维有限差分模拟. 地震工程与工程振动, 42(05):009-017. doi:10.13197/j.eeed.2022.0502. [pdf](/pub/doi10.13197j.eeed.2022.0502.pdf)<br>
 Li C, Wang H, Wen R^*^, **Qiang S**, Ren Y. 2022. 3D finite-difference numerical simulation of ground motion in Japan Namie M7.4 earthquake, March 16, 2022. Earthquake Engineering and Engineering Dynamics, 42(05):009-017. (in Chinese).
 
