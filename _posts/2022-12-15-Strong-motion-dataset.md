@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "My frst Blog"
-date:   2022-12-14 15:14:54
-categories: Hello World
-tags: logo
+title: "Strong-motion dataset"
+date:  2022-12-15 02:07:54
+categories: dataset
+tags: data
 author: qiangsy
 ---
 
@@ -13,7 +13,7 @@ author: qiangsy
 # Strong Motion Database Center URL organized by Shengyin Qiang
 
 | Database name | Database code | URL  |
-| :------------ | :----  | ----： |
+| :------------ | :----:  | ----： |
 | Centre for Engineering Strong Motion Data |CESMD| http://www.strongmotioncenter.org/   |
 | COSMOS Virtual Data Center |COSMOS| http://www.cosmos-eq.org/VDC/index.html |
 | Pacific Earthquake Engineering Research Center database|PEER|  http://peer.berkeley.edu/peer_ground_motion_database |
