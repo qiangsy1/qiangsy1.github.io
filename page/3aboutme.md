@@ -24,11 +24,10 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 |            qiangsy_96@outlook.com                          |                   qiangsy1996@gmail.com                       |              Wechat                       |
 |:---------------------------------------------:|:-----------------------------------:|:-----------------------------------------------:|
 |
-<figure>
-<img src="/picture/outlook.png" width=200/>
-<img src="/picture/gmail.png" width=200/>
-<img src="/picture/wechat.jpg" width=200/>
-</figure>|
+<figure><img src="/picture/outlook.png" width=200/></figure>|
+<figure><img src="/picture/gmail.png" width=200/></figure>|
+<figure><img src="/picture/wechat.jpg" width=200/></figure>|
+
 
 
 
