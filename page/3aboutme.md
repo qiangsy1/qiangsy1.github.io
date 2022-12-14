@@ -22,13 +22,13 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 
 ## **Contact me**
 <a 
-   href="qiangsy_96@outlook.com" target="-blank" title="qiangsy_96@outlook.com">
+   href="mailto:qiangsy_96@outlook.com" target="-blank" title="qiangsy_96@outlook.com">
     <img src="/picture/outlook.png" width=50/>
 <a  
-   href=" qiangsy1996@gmail.com" target="-blank" title=" qiangsy1996@gmail.com">
+   href="mailto:qiangsy1996@gmail.com" target="-blank" title=" qiangsy1996@gmail.com">
     <img src="/picture/gmail.png" width=50/> 
 <a   
-   href="qiangsy_96@outlook.com" target="-blank" title="Wechat">
+    title="Wechat">
     <img src="/picture/wechat.jpg" width=50/>    
 </a>
 
