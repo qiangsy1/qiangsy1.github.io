@@ -12,7 +12,7 @@ type: page
 # **Shengyin Qiang (强生银)**
 
 ## **About me**
-<a href="https://qiangshen1.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="165px" /></a>&nbsp;</td>
+<a href="https://qiangsy1.github.io/"><img src="picture/bio.jpg" alt="alt text" width="131px" height="165px" /></a>&nbsp;</td>
 <td align="left"><p>Ph.D student,<br />
 Institute of Engineering Mechanics, China Earthquake Administration.<br />
 No. 29 Xuefu Road, <br />
