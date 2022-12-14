@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Jekyll 搭建静态博客"
-date:   2022-12-15 00:50:00
-categories: logo
+title:  "Teach Girlfriend to make a Web Pages like Zhihu"
+date:   2015-03-21 15:14:54
+categories: Bootstrap
 tags: logo
-Author: qiangsy
 ---
 
 * content
