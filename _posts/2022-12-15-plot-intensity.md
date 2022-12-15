@@ -12,7 +12,7 @@ author: qiangsy
 ## **地震烈度分布图**<br/>
 
 ### 绘图效果如图
-<div align='center'><img src="/picture/intensity.jpg" width="80%"></div>
+<div align='center'><img src="/picture/intensity.jpg" width="60%"></div>
 
 ### 设置GMT配置参数的值
 ```
@@ -59,5 +59,5 @@ del *.history *.conf *.grd *.grad *.cpt
 ```
 
 ### 完整代码
-**[Main script]**</data/intensity_gmt.bat><br>
+**[Main script]**</sahredata/intensity_gmt.bat><br>
 **[intensity data]**<intensity.txt>
