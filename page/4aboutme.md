@@ -32,6 +32,9 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 <a  
     href="mailto:qiangsy1996@gmail.com" target="-blank" title=" qiangsy1996@gmail.com">
     <img src="/picture/gmail.png" width=145/> 
+    <a  
+    href="https://scholar.google.com.hk/citations?user=JVarl3oAAAAJ&hl=zh-CN" target="-blank" title=" Google Scholar">
+    <img src="https://scholar.google.com.hk/intl/zh-CN/scholar/images/1x/scholar_logo_64dp.png" width=145/> 
 <a   
     title="Wechat">
     <img src="/picture/wechat.jpg" width=150/>    
