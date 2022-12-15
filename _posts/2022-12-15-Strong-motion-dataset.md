@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "strong-motion dataset"
+title:  "Strong-motion dataset"
 categories: Markdown
 tags:  dataset
 author: qiangsy
