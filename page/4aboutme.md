@@ -31,7 +31,7 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Outlook_74x73" width=145/>
 <a  
     href="mailto:qiangsy1996@gmail.com" target="-blank" title=" qiangsy1996@gmail.com">
-    <img src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" width=145/> 
+    <img src="/picture/gmail.png" width=145/> 
     <a  
     href="https://scholar.google.com.hk/citations?user=JVarl3oAAAAJ&hl=zh-CN" target="-blank" title=" Google Scholar">
     <img src="https://scholar.google.com/intl/us-en/scholar/images/1x/scholar_logo_64dp.png" width=145/> 
