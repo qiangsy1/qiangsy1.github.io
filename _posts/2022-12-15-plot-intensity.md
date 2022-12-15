@@ -55,5 +55,5 @@ gmt end show
 del *.history *.conf *.grd *.grad *.cpt
 ```
 ### 完整代码
-[Main script]</sahredata/intensity_gmt.bat>**<br>
-[intensity data]<intensity.txt>
+[Main script]</sahredata/intensity_gmt.bat><br>
+[intensity data]</data/intensity.txt>
