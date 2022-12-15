@@ -13,7 +13,7 @@ author: qiangsy
 <div align='center'><img src="/picture/intensity.jpg" width="60%"></div>
 
 
-# **地震烈度分布图**<br/>
+# **地震烈度分布图GMT代码**<br/>
 ### 设置GMT配置参数的值
 ```
 gmt begin intensity jpg
