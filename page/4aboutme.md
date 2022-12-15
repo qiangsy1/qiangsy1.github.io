@@ -28,7 +28,7 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
 ## **Contact me**
 <a 
     href="mailto:qiangsy_96@outlook.com" target="-blank" title="qiangsy_96@outlook.com">
-    <img src="/picture/outlook.png" width=145/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Outlook_74x73" width=145/>
 <a  
     href="mailto:qiangsy1996@gmail.com" target="-blank" title=" qiangsy1996@gmail.com">
     <img src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" width=145/> 
