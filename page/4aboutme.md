@@ -34,7 +34,7 @@ I'm a Ph.D. student of the Institute of Engineering Mechanics, China Earthquake 
     <img src="/picture/gmail.png" width=145/> 
     <a  
     href="https://scholar.google.com.hk/citations?user=JVarl3oAAAAJ&hl=zh-CN" target="-blank" title=" Google Scholar">
-    <img src="https://scholar.google.com/intl/us-en/scholar/images/1x/scholar_logo_64dp.png" width=145/> 
+    <img src="/picture/googlescholar.png" width=145/> 
 <a   
     title="Wechat">
     <img src="/picture/wechat.jpg" width=150/>    
