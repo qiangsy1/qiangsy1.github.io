@@ -9,7 +9,7 @@ author: qiangsy
 * content
 {:toc}
 
-地震烈度分布图
+地震烈度分布图<br>
 <div align='center'><img src="/picture/intensity.jpg" width="60%"></div>
 
 
