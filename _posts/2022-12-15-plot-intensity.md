@@ -59,4 +59,4 @@ del *.history *.conf *.grd *.grad *.cpt
 ```
 ### 完整代码
 [Main_script](/sharedata/intensity_gmt.bat)<br>
-[intensity_data](/data/intensity.txt)
+[intensity_data](/sharedata/intensity.txt)
