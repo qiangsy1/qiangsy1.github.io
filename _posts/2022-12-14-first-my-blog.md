@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My frst Blog"
-categories: Hello World
+title:  "My First Blog"
+categories: Markdown HTML
 tags: logo
 author: qiangsy
 ---
