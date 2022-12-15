@@ -33,7 +33,7 @@ gmt begin intensity jpg
    set J=M8c
 ```
 ```
-   rem 使用中文图例是要注意三个问题： 1.配置Windows 下的 GMT 中文支持； 2.使用中文字体； 3. bat脚本需要修   改为GB2312
+  <font color=#008000 >rem 使用中文图例是要注意三个问题： 1.配置Windows 下的 GMT 中文支持； 2.使用中文字体； 3. bat脚本需要修   改为GB2312 </font>
    gmt basemap -R%R% -J%J% -Baf -BWSen+t"仪器地震烈度分布图" --FONT_TITLE=8p,40,black    --MAP_TITLE_OFFSET=0c
    gmt makecpt -Chot -T%C% -Z -Iz -D -H > h.cpt
    rem 截取地形数据，计算输入地形数据的梯度作为光照强度文件
@@ -57,6 +57,24 @@ gmt begin intensity jpg
 gmt end show
 del *.history *.conf *.grd *.grad *.cpt
 ```
-### 完整代码
+## **完整代码 & 绘图数据**
 [Main_script](/sharedata/intensity_gmt.bat)<br>
 [intensity_data](/sharedata/intensity.txt)
+
+## **仪器地震烈度的计算**
+我们国家最新发布的《中国地震烈度表》中，首次引入仪器测定的地震烈度作为地震烈度评定的重要指标，并且随着国家地震烈度速报与预警工程的建成运行，地震发生后将会触发大量密集的地震烈度仪，获得丰富的地震记录。<br>
+计算仪器地震烈度的流程图：<br>
+<div align='center'><img src="/picture/Intensity_calculation.png" width="60%"></div>
+
+**Note**: <br>
+- 地震动记录要进行0.1-10.0Hz的带通滤波,基线校正等常规操作。
+- 我们通常拿到的记录单位是cm/s<sup>2</sup>,烈度计算公式中单位是m/s，注意进行单位转换。
+
+
+## **参考文献**
+- [GMT中文手册](https://docs.gmt-china.org/latest/)
+- GB/T17742-2020 中国地震烈度表[S]. 北京: 中国标准出版社, 2020. 
+
+### **修订历史**
+- 2022.12.16 增加了仪器地震烈度计算说明
+- 2022.12.15 创建了文章
