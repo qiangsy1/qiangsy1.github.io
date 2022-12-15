@@ -13,6 +13,9 @@ author: qiangsy
 <div align='center'><img src="/picture/intensity.jpg" width="60%"></div>
 
 
+
+
+
 ## **地震烈度分布图GMT代码**
 
 ```
@@ -55,5 +58,5 @@ gmt end show
 del *.history *.conf *.grd *.grad *.cpt
 ```
 ### 完整代码
-[Main script]</sahredata/intensity_gmt.bat><br>
+[Main script]</sharedata/intensity_gmt.bat><br>
 [intensity data]</data/intensity.txt>
