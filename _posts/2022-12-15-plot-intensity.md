@@ -33,7 +33,7 @@ gmt begin intensity jpg
    set J=M8c
 ```
 ```
-  <font color=#008000 >rem 使用中文图例是要注意三个问题： 1.配置Windows 下的 GMT 中文支持； 2.使用中文字体； 3. bat脚本需要修   改为GB2312 </font>
+   rem 使用中文图例是要注意三个问题: 1.配置Windows 下的 GMT 中文支持; 2.使用中文字体；3. bat脚本修改为GB2312
    gmt basemap -R%R% -J%J% -Baf -BWSen+t"仪器地震烈度分布图" --FONT_TITLE=8p,40,black    --MAP_TITLE_OFFSET=0c
    gmt makecpt -Chot -T%C% -Z -Iz -D -H > h.cpt
    rem 截取地形数据，计算输入地形数据的梯度作为光照强度文件
@@ -77,4 +77,4 @@ del *.history *.conf *.grd *.grad *.cpt
 
 ### **修订历史**
 - 2022.12.16 增加了仪器地震烈度计算说明
-- 2022.12.15 创建了文章
+- 2022.12.15 创建了博客
